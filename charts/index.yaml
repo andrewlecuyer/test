@@ -23,6 +23,6 @@ entries:
     - https://github.com/CrunchyData/postgres-operator
     - https://github.com/CrunchyData/crunchy-containers
     urls:
-    - http://127.0.0.1:8879/postgres-operator-0.2.0.tgz
+    - https://raw.githubusercontent.com/andrewlecuyer/test/gh-pages/charts/postgres-operator-0.2.0.tgz 
     version: 0.2.0
 generated: 2019-01-25T20:49:09.019358475Z
